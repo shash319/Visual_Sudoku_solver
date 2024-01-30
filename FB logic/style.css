@@ -1,27 +1,4 @@
-/*.head{
-    color:blue;
-    margin: 100px 200px 15px 50px;
-    
-}
-.head1
-{
-    color:blue;
-    margin: 20px 200px 15px 800px;
-
-}
-#head2
-{
-    background-color: #4267B2;
-    margin: 20px 200px 15px 800px;
-    padding: 20px;
-}
-#head3
-{
-    background-color: green;
-    margin: 20px 290px 15px 870px;
-    padding: 20px;
-}*/
-body{
+.body{
     padding: 0;
     margin: 0;
     background: #f0f2f5;
@@ -242,3 +219,26 @@ body{
     }
 
 }
+/*.head{
+    color:blue;
+    margin: 100px 200px 15px 50px;
+    
+}
+.head1
+{
+    color:blue;
+    margin: 20px 200px 15px 800px;
+
+}
+#head2
+{
+    background-color: #4267B2;
+    margin: 20px 200px 15px 800px;
+    padding: 20px;
+}
+#head3
+{
+    background-color: green;
+    margin: 20px 290px 15px 870px;
+    padding: 20px;
+}*/
