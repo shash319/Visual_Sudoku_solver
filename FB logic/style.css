@@ -91,7 +91,7 @@
     text-decoration: none;
     padding: 15px 20px;
     border-radius: 5px;
-    background: #9720a4;
+    background: #36a420;
     font-weight: 600;
     display: inline-block;
     margin-bottom: 5px;
@@ -176,7 +176,7 @@
 }
 
 
-@media (max-width: 365px)
+@media (max-width: 365px )
 {
 
     
